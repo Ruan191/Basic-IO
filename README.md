@@ -11,4 +11,4 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 2. Open up your project you want to use the BIO.dll on.
 
 3. Click on Solution Explorer, then right click on References and select "Add Reference..."
-![](images/)
+![](images/ref.png)
