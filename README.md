@@ -5,4 +5,5 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 
 # How to setup
 
-First you will need to download the BIO.dll
+First you will need to download the BIO.rar file at https://github.com/Ruan191/Basic-IO/blob/master/BIO.rar. After you have downloaded
+the file feel free to extract the file anywhere you want on you PC
