@@ -6,7 +6,7 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 ## How to setup BIO.dll on Visual Studio
 
 1. First you will need to download the BIO.rar file at https://github.com/Ruan191/Basic-IO/blob/master/BIO.rar. After you have downloaded
-   the file feel free to extract the file anywhere you want on you PC.
+   the file feel free to extract the file anywhere you want on your PC.
    
 2. Open up your project you want to use the BIO.dll on.
 
