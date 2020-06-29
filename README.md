@@ -29,7 +29,7 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 ## BIO code
 
 ### Class F and D
-contains two classes, class "F" contains methods for files while class "D" contains methods for directories. You will first need to declare BIO.F or BIO.D as an object  before you can access it.
+BIO contains two classes, class "F" contains methods for files while class "D" contains methods for directories. You will first need to declare BIO.F or BIO.D as an object  before you can access it.
 
 ### Class F Methods
 #### rf
