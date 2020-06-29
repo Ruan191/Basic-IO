@@ -49,7 +49,7 @@ contains two classes, class "F" contains methods for files while class "D" conta
 #### fex
 * fex(String FileName) Checks if the file exist at the specified location.
 
-###Class D Methods
+### Class D Methods
 #### gfn
 * gfn(String DirectoryLocation) Gets all the file directories names in the directory and return all the names found in a String array.
 
