@@ -20,7 +20,25 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 
 5. Go to the directory where you have extracted the BIO.rar then double click the BIO.dll file.
 
-6. You will be placed back to the Reference Manager where you will see the BIO.dll being checked. Click "OK" and the setup is done.
+6. You will be placed back to the Reference Manager where you will see the BIO.dll being checked. Click "OK".
 
 ![github-large](https://github.com/Ruan191/Basic-IO/blob/master/images/done.PNG)
 
+7. After all that is done you will need to declare that you will be using the BIO.dll in you code. Then you are ready to use BIO.
+
+## BIO code
+
+### Class F and D
+contains two classes, class "F" contains methods for files while class "D" contains methods for directories. You will first need to declare BIO.F or BIO.D as an object  before you can access it.
+
+### Class F Methods
+#### rf
+* rf(String location) reads a files content to the end and returns it as a String
+* rf(String location, Char split)  splits the files content to an array
+
+#### wf
+* wf(String location, String write, bool writeline, bool append) Writes to a file location (if the location does not exist the a new file will be created) 
+* "location" the file location.
+* "write" what will be written on the file.
+* "writeline" determines if what is written will go to a new line or not.
+* "append" determines if file will be overwritten or added upon.
