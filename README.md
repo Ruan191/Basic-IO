@@ -22,3 +22,5 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 
 6. You will be placed back to the Reference Manager where you will see the BIO.dll being checked. Click "OK" and the setup is done.
 
+![github-large](https://github.com/Ruan191/Basic-IO/blob/master/images/done.PNG)
+
