@@ -8,7 +8,7 @@ This .dll simplifies System.IO to help reduce lines of codes and help users to e
 1. First you will need to download the BIO.rar file at https://github.com/Ruan191/Basic-IO/blob/master/BIO.rar or just simply clone the files. After you have downloaded
    the file feel free to extract the file anywhere you want on your PC.
    
-2. Open up your project you want to use the BIO.dll on.
+2. Open up the project you want to use the BIO.dll on.
 
 3. Click on Solution Explorer, then right click on References and select "Add Reference..."
 
